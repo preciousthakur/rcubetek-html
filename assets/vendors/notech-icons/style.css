@@ -52,6 +52,9 @@
 .icon-design-thinking:before {
   content: "\e906";
 }
+.icon-design-staff:before {
+  content: "\e904";
+}
 .icon-coding:before {
   content: "\e907";
 }

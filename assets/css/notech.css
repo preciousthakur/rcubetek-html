@@ -711,6 +711,7 @@ ul {
   float: left;
   padding: 16.5px 0;
   margin-right: 140px;
+  width:200px;
 }
 
 .main-menu__main-menu-box {
@@ -7605,7 +7606,7 @@ ul {
 }
 
 /*--------------------------------------------------------------
-# Rcube tek More
+# RCube tek More
 --------------------------------------------------------------*/
 .notech-more {
   position: relative;
@@ -11713,7 +11714,7 @@ body.boxed-wrapper {
 .welcome-three__btn {}
 
 /*--------------------------------------------------------------
-# Rcube tek More Two
+# RCube tek More Two
 --------------------------------------------------------------*/
 .notech-more-two {
   background-color: var(--notech-extra);
