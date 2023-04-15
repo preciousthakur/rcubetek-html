@@ -5608,6 +5608,7 @@ ul {
 .why-choose-one__tab-text {
   font-size: 16px;
   line-height: 30px;
+  text-align: justify;
 }
 
 .why-choose-one__right {
@@ -5621,6 +5622,7 @@ ul {
   font-size: 16px;
   line-height: 30px;
   padding-bottom: 41px;
+  text-align: justify;
 }
 
 .why-choose-one__points-box {
@@ -6755,6 +6757,7 @@ ul {
 .services-three__top-text {
   font-size: 16px;
   line-height: 30px;
+  text-align:justify;
 }
 
 .services-three__bottom {
@@ -7083,6 +7086,7 @@ ul {
 .welcome__text-1 {
   font-size: 16px;
   line-height: 30px;
+  text-align: justify;
 }
 
 .welcome__text-2 {
@@ -7090,6 +7094,7 @@ ul {
   line-height: 30px;
   padding-top: 30px;
   padding-bottom: 41px;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
@@ -7150,6 +7155,7 @@ ul {
 .consult__text {
   font-size: 16px;
   line-height: 30px;
+  text-align: justify;
 }
 
 .consult__icon-box {
@@ -7679,6 +7685,7 @@ ul {
 .notech-more__text-2 {
   font-size: 16px;
   line-height: 30px;
+  text-align: justify;
 }
 
 .notech-more__right {
@@ -9703,6 +9710,7 @@ ul {
   font-size: 16px;
   font-weight: 400;
   line-height: 30px;
+  text-align: justify;
 }
 
 .service-details__text-2 {
@@ -10673,6 +10681,7 @@ ul {
   line-height: 30px;
   padding-top: 30px;
   padding-bottom: 43px;
+  text-align: justify;
 }
 
 .why-choose-two__points {
