@@ -25,9 +25,9 @@
   --notech-white-rgb: 255, 255, 255;
   --notech-black: #1b1525;
   --notech-black-rgb: 27, 21, 37;
-  --notech-base: #6653e8;
+  --notech-base: #292F4F;
   --notech-base-rgb: 102, 83, 232;
-  --notech-primary: #2be4ac;
+  --notech-primary: #4ACBED;
   --notech-primary-rgb: 43, 228, 172;
   --notech-extra: #f7f7f9;
   --notech-extra-rgb: 247, 247, 249;
@@ -7612,7 +7612,7 @@ ul {
 }
 
 /*--------------------------------------------------------------
-# RCube tek More
+# Vican Code More
 --------------------------------------------------------------*/
 .notech-more {
   position: relative;
@@ -11725,7 +11725,7 @@ body.boxed-wrapper {
 .welcome-three__btn {}
 
 /*--------------------------------------------------------------
-# RCube tek More Two
+# Vican Code More Two
 --------------------------------------------------------------*/
 .notech-more-two {
   background-color: var(--notech-extra);
